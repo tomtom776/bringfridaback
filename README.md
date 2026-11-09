@@ -5,7 +5,7 @@ Static one-page site for the effort to restore the Frida Kahlo mural at Cavalcad
 ## Things still to do before launch
 - Replace `images/frida-now.jpg` with an original photo of the cabinet as it is today. The current file looks like a Google Street View screenshot and should not stay on a public site.
 - Confirm Anat Ronen is fine with her work being shown. Confirm UP Art Studio and the Mayor's Office of the Arts are comfortable being named under "Who is at the table".
-- Set the absolute `og:image` URL to `https://YOURDOMAIN/images/frida-city.jpg` once the domain is live.
+- Done: `og:image` points to `https://bringfridaback.com/images/frida-city.jpg`.
 
 ## Edit points (script at the bottom of `index.html`)
 - `EMAIL`: public contact address.
